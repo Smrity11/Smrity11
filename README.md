@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Smrity 👋</h1> 
 <h3 align="center">A Wev Developer from Bangladesh</h3> 
 
-<img src="https://image.slidesdocs.com/responsive-images/background/a-dark-futuristic-environment-with-animated-cubes-powerpoint-background_4ecf2b4318__960_540.jpg"></img>
-Smrity11# 💫 About Me:
-🔭 I’m currently learning ***Wev Development***<br>👯 I’m looking to collaboI'm a passionate and results-driven web developer with a keen interest in creating intuitive, dynamic, and user-friendly websites. My journey in the world of programming started with a fascination for turning ideas into functional, aesthetically pleasing digital experiences.rate on<br>🤝 I’m looking for help with<br>💬 Ask me about ***HTML ,CSS ,Javascript***<br>⚡ Fun fact
+<img width="100%" height="350px" src="https://image.slidesdocs.com/responsive-images/background/a-dark-futuristic-environment-with-animated-cubes-powerpoint-background_4ecf2b4318__960_540.jpg"></img>
+Smrity11# 💫<br> About Me:<br>
+🔭 I’m currently learning ***Wev Development***<br>👯 I’m looking to collaboI'm a passionate and results-driven web developer with a keen interest in creating intuitive, dynamic, and user-friendly websites. My journey in the world of programming started with a fascination for turning ideas into functional, aesthetically pleasing digital experiences.rate on<br>💬 Ask me about ***HTML ,CSS ,Javascript***<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
