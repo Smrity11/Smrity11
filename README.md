@@ -5,13 +5,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=Smrity11&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<img width="350px" height="350px" align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eb671f3f-7985-47cd-91ae-be9b697e5676/d6uayty-ab582500-d4d6-48ee-a801-3707f53fb939.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ViNjcxZjNmLTc5ODUtNDdjZC05MWFlLWJlOWI2OTdlNTY3NlwvZDZ1YXl0eS1hYjU4MjUwMC1kNGQ2LTQ4ZWUtYTgwMS0zNzA3ZjUzZmI5MzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-fORxZWzak336RUsZSXjRQOGlUMp-JEWynFZwgioYQk">
+<img width="350px" height="350px" align="right" src="https://ibb.co/JyjxzkR">
 
 **Smrity11#** 💫
-
-About Me:
-<br>
-🔭 I’m currently learning and experimenting with various ***web technologies***.<br>👯 I’m looking to collaborate on exciting web development projects.<br> 💬 Ask me about ***HTML, CSS, and JavaScript*** — I love sharing knowledge!<br>⚡ Fun fact: I believe in the power of clean code and its impact on creating exceptional user experiences.
+<h3>About Me:</h3>
+<h4>🔭 I’m currently learning and experimenting with various ***web technologies***.</h4><h4>👯 I’m looking to collaborate on exciting web development projects.</h4><h4>💬 Ask me about ***HTML, CSS, and JavaScript*** — I love sharing knowledge!</h4><h4>⚡ Fun fact: I believe in the power of clean code and its impact on creating exceptional user experiences.</h4>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Smrity376) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smrity_kajal) 
