@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Smrity11&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<img width="350px" height="350px" align="right" src="https://ibb.co/JyjxzkR">
+<img width="380px" height="290px" align="right" src="https://i.ibb.co/MGk8RND/408364920-321922804111865-8755294358244759437-n.gif">
 
 **Smrity11#** 💫
 <h3>About Me:</h3>
@@ -38,7 +38,7 @@
 
 ### 😂 Random Dev Meme  <br>
 
-<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
+<img  src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
 
 ---
 
