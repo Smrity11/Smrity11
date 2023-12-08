@@ -10,7 +10,8 @@
 **Smrity11#** 💫
 
 About Me:
-🔭 I’m currently learning ***Web Development***<br>👯 I’m looking to collaborate on<br>💬 Ask me about ***HTML, CSS, JavaScript***<br>⚡ Fun fact
+<br>
+🔭 I’m currently learning and experimenting with various ***web technologies***.<br>👯 I’m looking to collaborate on exciting web development projects.<br> 💬 Ask me about ***HTML, CSS, and JavaScript*** — I love sharing knowledge!<br>⚡ Fun fact: I believe in the power of clean code and its impact on creating exceptional user experiences.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Smrity376) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smrity_kajal) 
