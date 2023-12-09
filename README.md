@@ -1,5 +1,9 @@
 
-<div align="center"><img align="center" src="https://i.postimg.cc/g0P9KnSp/bg.png"></div>
+<div align="center" style="background-color: black; width: 700px;">
+  <img align="center" height="370px" width="100%" src="https://i.postimg.cc/g0P9KnSp/bg.png">
+</div>
+
+
 
  <h1 align="center">Hi, I'm Smrity 👋</h1>
 
