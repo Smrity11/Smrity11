@@ -1,3 +1,6 @@
+
+<img width="800px" height="300px" src="https://i.postimg.cc/g0P9KnSp/bg.png">
+
  <h1 align="center">Hi, I'm Smrity 👋</h1>
 
 <h3 align="center">A Web Developer from Bangladesh </h3>
