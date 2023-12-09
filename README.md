@@ -1,5 +1,5 @@
 
-<img width="800px" height="300px" src="https://i.postimg.cc/g0P9KnSp/bg.png">
+<div align="center"><img align="center" src="https://i.postimg.cc/g0P9KnSp/bg.png"></div>
 
  <h1 align="center">Hi, I'm Smrity 👋</h1>
 
